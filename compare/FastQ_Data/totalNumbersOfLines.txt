@@ -1,0 +1,9 @@
+   15535 compare/FastQ_Data/lane8_DD_P4_TTAGGC_L008_R1.fastq.gz
+   16003 compare/FastQ_Data/lane8_DD_P4_TTAGGC_L008_R2.fastq.gz
+   15912 compare/FastQ_Data/lane8_DD_P9_TGACCA_L008_R1.fastq.gz
+   15796 compare/FastQ_Data/lane8_DD_P9_TGACCA_L008_R2.fastq.gz
+   15607 compare/FastQ_Data/lane8_FF_P4_ATCACG_L008_R1.fastq.gz
+   16399 compare/FastQ_Data/lane8_FF_P4_ATCACG_L008_R2.fastq.gz
+   15588 compare/FastQ_Data/lane8_FF_P9_CGATGT_L008_R1.fastq.gz
+   15692 compare/FastQ_Data/lane8_FF_P9_CGATGT_L008_R2.fastq.gz
+  126532 total

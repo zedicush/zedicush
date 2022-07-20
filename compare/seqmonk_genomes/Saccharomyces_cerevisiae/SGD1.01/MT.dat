@@ -1,0 +1,1313 @@
+ID   SGD1.01:MT standard; DNA; UNK; 85779 BP.
+XX
+AC   chromosome:SGD1.01:MT:1:85779:1;
+XX
+DE   
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   gene            731..802
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tP(UGG)Q"
+FT   mRNA            731..802
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tP(UGG)Q"
+FT   gene            3952..4338
+FT                   /source="SGD"
+FT                   /name="Q0010"
+FT                   /id="Q0010"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0010. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX9]"
+FT   mRNA            3952..4338
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3994_at"
+FT                   /name="Q0010"
+FT                   /id="Q0010"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0010. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX9]"
+FT   CDS             3952..4338
+FT                   /source="SGD"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0010_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0008137 NADH dehydrogenase (ubiquinone)
+FT                   activity (molecular_function)"
+FT                   /db_xref="GO:0042773 ATP synthesis coupled electron
+FT                   transport (biological_process)"
+FT                   /name="Q0010"
+FT                   /id="Q0010"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0010. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX9]"
+FT   gene            4254..4415
+FT                   /source="SGD"
+FT                   /name="Q0017"
+FT                   /id="Q0017"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0017. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX8]"
+FT   mRNA            4254..4415
+FT                   /source="SGD"
+FT                   /name="Q0017"
+FT                   /id="Q0017"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0017. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX8]"
+FT   CDS             4254..4415
+FT                   /source="SGD"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0017_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /name="Q0017"
+FT                   /id="Q0017"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0017. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX8]"
+FT   gene            6546..8194
+FT                   /source=""
+FT                   /name=""
+FT                   /id="15S_rRNA"
+FT   rRNA            6546..8194
+FT                   /source=""
+FT                   /name=""
+FT                   /id="15S_rRNA"
+FT   gene            9374..9447
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tW(UCA)Q"
+FT   mRNA            9374..9447
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tW(UCA)Q"
+FT   gene            11667..11957
+FT                   /source="SGD"
+FT                   /name="Q0032"
+FT                   /id="Q0032"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0032. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX7]"
+FT   mRNA            11667..11957
+FT                   /source="SGD"
+FT                   /name="Q0032"
+FT                   /id="Q0032"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0032. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX7]"
+FT   CDS             11667..11957
+FT                   /source="SGD"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0032_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /name="Q0032"
+FT                   /id="Q0032"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0032. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX7]"
+FT   gene            13818..18830
+FT                   /source="SGD"
+FT                   /name="AI2"
+FT                   /id="Q0055"
+FT                   /description="Putative COX1/OXI3 intron 2 protein.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03876]"
+FT   mRNA            join(13818..13986,16435..18830)
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3999_at"
+FT                   /db_xref="AFFY_YG_S98:3996_s_at"
+FT                   /name="AI2"
+FT                   /id="Q0055"
+FT                   /description="Putative COX1/OXI3 intron 2 protein.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03876]"
+FT   CDS             join(13818..13986,16435..18830)
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:AI2"
+FT                   /db_xref="RefSeq_peptide:NP_009309.1"
+FT                   /db_xref="Uniprot/SWISSPROT:AI2M_YEAST"
+FT                   /db_xref="GO:0006118  ()"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="GO:0003676 nucleic acid binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0003723 RNA binding (molecular_function)"
+FT                   /db_xref="GO:0003964 RNA-directed DNA polymerase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0006278 RNA-dependent DNA replication
+FT                   (biological_process)"
+FT                   /name="AI2"
+FT                   /id="Q0055"
+FT                   /description="Putative COX1/OXI3 intron 2 protein.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03876]"
+FT   gene            13818..21935
+FT                   /source="SGD"
+FT                   /name="AI4"
+FT                   /id="Q0065"
+FT                   /description="Intron-encoded DNA endonuclease aI4
+FT                   precursor (DNA endonuclease I- SceII) [Contains: Truncated
+FT                   non-functional cytochrome oxidase 1; DNA endonuclease aI4
+FT                   (EC 3.1.-.-) (Intron-encoded endonuclease I-SceII)].
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03878]"
+FT   mRNA            join(13818..13986,16435..16470,18954..18991,20508..21935)
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:4002_at"
+FT                   /db_xref="AFFY_YG_S98:4001_at"
+FT                   /db_xref="AFFY_YG_S98:3996_s_at"
+FT                   /name="AI4"
+FT                   /id="Q0065"
+FT                   /description="Intron-encoded DNA endonuclease aI4
+FT                   precursor (DNA endonuclease I- SceII) [Contains: Truncated
+FT                   non-functional cytochrome oxidase 1; DNA endonuclease aI4
+FT                   (EC 3.1.-.-) (Intron-encoded endonuclease I-SceII)].
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03878]"
+FT   CDS             join(13818..13986,16435..16470,18954..18991,20508..21935)
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:AI4"
+FT                   /db_xref="RefSeq_peptide:NP_009307.2"
+FT                   /db_xref="Uniprot/SPTREMBL:Q35790_YEAST"
+FT                   /db_xref="Uniprot/SWISSPROT:SCE2_YEAST"
+FT                   /db_xref="GO:0006118  ()"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="GO:0004129 cytochrome-c oxidase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005507 copper ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0005746 mitochondrial respiratory chain
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0003677 DNA binding (molecular_function)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="GO:0016787 hydrolase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004518 nuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /db_xref="GO:0016539 intein-mediated protein splicing
+FT                   (biological_process)"
+FT                   /name="AI4"
+FT                   /id="Q0065"
+FT                   /description="Intron-encoded DNA endonuclease aI4
+FT                   precursor (DNA endonuclease I- SceII) [Contains: Truncated
+FT                   non-functional cytochrome oxidase 1; DNA endonuclease aI4
+FT                   (EC 3.1.-.-) (Intron-encoded endonuclease I-SceII)].
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03878]"
+FT   gene            13818..26701
+FT                   /source="SGD"
+FT                   /name="COX1"
+FT                   /id="Q0045"
+FT                   /description="Cytochrome c oxidase subunit 1 (EC 1.9.3.1)
+FT                   (Cytochrome c oxidase polypeptide I).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00401]"
+FT   mRNA            join(13818..13986,16435..16470,18954..18991,20508..20984,
+FT                   21995..22246,23612..23746,25318..25342,26229..26701)
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3996_s_at"
+FT                   /db_xref="AFFY_YG_S98:4003_s_at"
+FT                   /db_xref="AFFY_YG_S98:4001_at"
+FT                   /db_xref="AFFY_YG_S98:4005_at"
+FT                   /db_xref="AFFY_YG_S98:4007_at"
+FT                   /db_xref="AFFY_YG_S98:4008_at"
+FT                   /name="COX1"
+FT                   /id="Q0045"
+FT                   /description="Cytochrome c oxidase subunit 1 (EC 1.9.3.1)
+FT                   (Cytochrome c oxidase polypeptide I).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00401]"
+FT   CDS             join(13818..13986,16435..16470,18954..18991,20508..20984,
+FT                   21995..22246,23612..23746,25318..25342,26229..26701)
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:COX1"
+FT                   /db_xref="RefSeq_peptide:NP_009305.1"
+FT                   /db_xref="Uniprot/SPTREMBL:Q35790_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q36738_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q36739_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q36740_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q95947_YEAST"
+FT                   /db_xref="Uniprot/SWISSPROT:COX1_YEAST"
+FT                   /db_xref="GO:0006118  ()"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="GO:0004129 cytochrome-c oxidase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005507 copper ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0005746 mitochondrial respiratory chain
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0046872 metal ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0005751 mitochondrial respiratory chain
+FT                   complex IV (cellular_component)"
+FT                   /db_xref="GO:0006123 mitochondrial electron transport,
+FT                   cytochrome c to oxygen (biological_process)"
+FT                   /name="COX1"
+FT                   /id="Q0045"
+FT                   /description="Cytochrome c oxidase subunit 1 (EC 1.9.3.1)
+FT                   (Cytochrome c oxidase polypeptide I).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00401]"
+FT   gene            13818..23167
+FT                   /source="SGD"
+FT                   /name="AI5_ALPHA"
+FT                   /id="Q0070"
+FT                   /description="Intron-encoded DNA endonuclease aI5 alpha
+FT                   precursor (DNA endonuclease I-SceIV) [Contains: Truncated
+FT                   non-functional cytochrome oxidase 1; DNA endonuclease aI5
+FT                   alpha (EC 3.1.-.-) (Intron-encoded endonuclease I-
+FT                   SceIV)]. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX1]"
+FT   mRNA            join(13818..13986,16435..16470,18954..18991,20508..20984,
+FT                   21995..23167)
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3996_s_at"
+FT                   /db_xref="AFFY_YG_S98:4004_at"
+FT                   /db_xref="AFFY_YG_S98:4001_at"
+FT                   /db_xref="AFFY_YG_S98:4003_s_at"
+FT                   /name="AI5_ALPHA"
+FT                   /id="Q0070"
+FT                   /description="Intron-encoded DNA endonuclease aI5 alpha
+FT                   precursor (DNA endonuclease I-SceIV) [Contains: Truncated
+FT                   non-functional cytochrome oxidase 1; DNA endonuclease aI5
+FT                   alpha (EC 3.1.-.-) (Intron-encoded endonuclease I-
+FT                   SceIV)]. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX1]"
+FT   CDS             join(13818..13986,16435..16470,18954..18991,20508..20984,
+FT                   21995..23167)
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:AI5_ALPHA"
+FT                   /db_xref="RefSeq_peptide:NP_009306.1"
+FT                   /db_xref="Uniprot/SPTREMBL:Q35790_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q36738_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q36739_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q36740_YEAST"
+FT                   /db_xref="Uniprot/SWISSPROT:SCE4_YEAST"
+FT                   /db_xref="GO:0006118  ()"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="GO:0004129 cytochrome-c oxidase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005507 copper ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0005746 mitochondrial respiratory chain
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="GO:0016787 hydrolase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004518 nuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /db_xref="GO:0006316 movement of group I intron
+FT                   (biological_process)"
+FT                   /name="AI5_ALPHA"
+FT                   /id="Q0070"
+FT                   /description="Intron-encoded DNA endonuclease aI5 alpha
+FT                   precursor (DNA endonuclease I-SceIV) [Contains: Truncated
+FT                   non-functional cytochrome oxidase 1; DNA endonuclease aI5
+FT                   alpha (EC 3.1.-.-) (Intron-encoded endonuclease I-
+FT                   SceIV)]. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX1]"
+FT   gene            13818..16322
+FT                   /source="SGD"
+FT                   /name="AI1"
+FT                   /id="Q0050"
+FT                   /description="Putative COX1/OXI3 intron 1 protein.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03875]"
+FT   mRNA            13818..16322
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3996_s_at"
+FT                   /db_xref="AFFY_YG_S98:3998_at"
+FT                   /name="AI1"
+FT                   /id="Q0050"
+FT                   /description="Putative COX1/OXI3 intron 1 protein.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03875]"
+FT   CDS             13818..16322
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:AI1"
+FT                   /db_xref="RefSeq_peptide:NP_009310.1"
+FT                   /db_xref="Uniprot/SWISSPROT:AI1M_YEAST"
+FT                   /db_xref="GO:0006118  ()"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="GO:0003676 nucleic acid binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="GO:0003723 RNA binding (molecular_function)"
+FT                   /db_xref="GO:0003964 RNA-directed DNA polymerase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0006278 RNA-dependent DNA replication
+FT                   (biological_process)"
+FT                   /db_xref="GO:0006315 homing of group II introns
+FT                   (biological_process)"
+FT                   /db_xref="GO:0045333 cellular respiration
+FT                   (biological_process)"
+FT                   /name="AI1"
+FT                   /id="Q0050"
+FT                   /description="Putative COX1/OXI3 intron 1 protein.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03875]"
+FT   gene            13818..19996
+FT                   /source="SGD"
+FT                   /name="AI3"
+FT                   /id="Q0060"
+FT                   /description="Ai3p  [Source:RefSeq_peptide;Acc:NP_009308]"
+FT   mRNA            join(13818..13986,16435..16470,18954..19996)
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:4000_at"
+FT                   /db_xref="AFFY_YG_S98:3996_s_at"
+FT                   /name="AI3"
+FT                   /id="Q0060"
+FT                   /description="Ai3p  [Source:RefSeq_peptide;Acc:NP_009308]"
+FT   CDS             join(13818..13986,16435..16470,18954..19996)
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:AI3"
+FT                   /db_xref="RefSeq_peptide:NP_009308.2"
+FT                   /db_xref="GO:0006118  ()"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0003677 DNA binding (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /name="AI3"
+FT                   /id="Q0060"
+FT                   /description="Ai3p  [Source:RefSeq_peptide;Acc:NP_009308]"
+FT   gene            24156..25255
+FT                   /source="SGD"
+FT                   /name="AI5_BETA"
+FT                   /id="Q0075"
+FT                   /description="Intron-encoded DNA endonuclease aI5 beta (EC
+FT                   3.1.-.-). [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX0]"
+FT   mRNA            join(24156..24870,24906..25255)
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:4006_at"
+FT                   /name="AI5_BETA"
+FT                   /id="Q0075"
+FT                   /description="Intron-encoded DNA endonuclease aI5 beta (EC
+FT                   3.1.-.-). [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX0]"
+FT   CDS             join(24156..24870,24906..25255)
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:AI5_BETA"
+FT                   /db_xref="RefSeq_peptide:NP_009311.2"
+FT                   /db_xref="Uniprot/SWISSPROT:AI5B_YEAST"
+FT                   /db_xref="GO:0006118  ()"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0003677 DNA binding (molecular_function)"
+FT                   /db_xref="GO:0016787 hydrolase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004518 nuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /name="AI5_BETA"
+FT                   /id="Q0075"
+FT                   /description="Intron-encoded DNA endonuclease aI5 beta (EC
+FT                   3.1.-.-). [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZX0]"
+FT   gene            27666..27812
+FT                   /source="SGD"
+FT                   /name="ATP8"
+FT                   /id="Q0080"
+FT                   /description="ATP synthase protein 8 (EC 3.6.3.14) (ATPase
+FT                   subunit 8) (A6L) (ATP- associated protein 1).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00856]"
+FT   mRNA            27666..27812
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3956_i_at"
+FT                   /db_xref="AFFY_YG_S98:3957_r_at"
+FT                   /name="ATP8"
+FT                   /id="Q0080"
+FT                   /description="ATP synthase protein 8 (EC 3.6.3.14) (ATPase
+FT                   subunit 8) (A6L) (ATP- associated protein 1).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00856]"
+FT   CDS             27666..27812
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:ATP8"
+FT                   /db_xref="RefSeq_peptide:NP_009312.1"
+FT                   /db_xref="Uniprot/SPTREMBL:Q96109_YEAST"
+FT                   /db_xref="Uniprot/SWISSPROT:ATP8_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006811 ion transport (biological_process)"
+FT                   /db_xref="GO:0015078 hydrogen ion transmembrane
+FT                   transporter activity (molecular_function)"
+FT                   /db_xref="GO:0015986 ATP synthesis coupled proton
+FT                   transport (biological_process)"
+FT                   /db_xref="GO:0015992 proton transport
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016469 proton-transporting two-sector ATPase
+FT                   complex (cellular_component)"
+FT                   /db_xref="GO:0016820 hydrolase activity, acting on acid
+FT                   anhydrides, catalyzing transmembrane movement of
+FT                   substances (molecular_function)"
+FT                   /db_xref="GO:0046933 hydrogen ion transporting ATP
+FT                   synthase activity, rotational mechanism
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0000276 mitochondrial proton-transporting ATP
+FT                   synthase complex, coupling factor F(o)
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0045263 proton-transporting ATP synthase
+FT                   complex, coupling factor F(o) (cellular_component)"
+FT                   /name="ATP8"
+FT                   /id="Q0080"
+FT                   /description="ATP synthase protein 8 (EC 3.6.3.14) (ATPase
+FT                   subunit 8) (A6L) (ATP- associated protein 1).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00856]"
+FT   gene            28487..29266
+FT                   /source="SGD"
+FT                   /name="ATP6"
+FT                   /id="Q0085"
+FT                   /description="ATP synthase a chain precursor (EC 3.6.3.14)
+FT                   (ATPase protein 6).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00854]"
+FT   mRNA            28487..29266
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3959_at"
+FT                   /name="ATP6"
+FT                   /id="Q0085"
+FT                   /description="ATP synthase a chain precursor (EC 3.6.3.14)
+FT                   (ATPase protein 6).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00854]"
+FT   CDS             28487..29266
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:ATP6"
+FT                   /db_xref="RefSeq_peptide:NP_009313.1"
+FT                   /db_xref="Uniprot/SPTREMBL:Q96101_YEAST"
+FT                   /db_xref="Uniprot/SWISSPROT:ATP6_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006811 ion transport (biological_process)"
+FT                   /db_xref="GO:0015078 hydrogen ion transmembrane
+FT                   transporter activity (molecular_function)"
+FT                   /db_xref="GO:0015986 ATP synthesis coupled proton
+FT                   transport (biological_process)"
+FT                   /db_xref="GO:0015992 proton transport
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016469 proton-transporting two-sector ATPase
+FT                   complex (cellular_component)"
+FT                   /db_xref="GO:0016820 hydrolase activity, acting on acid
+FT                   anhydrides, catalyzing transmembrane movement of
+FT                   substances (molecular_function)"
+FT                   /db_xref="GO:0046933 hydrogen ion transporting ATP
+FT                   synthase activity, rotational mechanism
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0000276 mitochondrial proton-transporting ATP
+FT                   synthase complex, coupling factor F(o)
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0045263 proton-transporting ATP synthase
+FT                   complex, coupling factor F(o) (cellular_component)"
+FT                   /name="ATP6"
+FT                   /id="Q0085"
+FT                   /description="ATP synthase a chain precursor (EC 3.6.3.14)
+FT                   (ATPase protein 6).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00854]"
+FT   gene            30874..31014
+FT                   /source="SGD"
+FT                   /name="Q0092"
+FT                   /id="Q0092"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0092. [Source:UniProtKB/Swiss-Prot;Acc:Q35811]"
+FT   mRNA            30874..31014
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3965_i_at"
+FT                   /name="Q0092"
+FT                   /id="Q0092"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0092. [Source:UniProtKB/Swiss-Prot;Acc:Q35811]"
+FT   CDS             30874..31014
+FT                   /source="SGD"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0092_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /name="Q0092"
+FT                   /id="Q0092"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0092. [Source:UniProtKB/Swiss-Prot;Acc:Q35811]"
+FT   gene            35373..35444
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tE(UUC)Q"
+FT   mRNA            35373..35444
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tE(UUC)Q"
+FT   gene            36540..38579
+FT                   /source="SGD"
+FT                   /name="BI2"
+FT                   /id="Q0110"
+FT                   /description="Cytochrome b mRNA maturase bI2.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03873]"
+FT   mRNA            join(36540..36954,37723..38579)
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3968_s_at"
+FT                   /db_xref="AFFY_YG_S98:3969_at"
+FT                   /name="BI2"
+FT                   /id="Q0110"
+FT                   /description="Cytochrome b mRNA maturase bI2.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03873]"
+FT   CDS             join(36540..36954,37723..38579)
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:BI2"
+FT                   /db_xref="RefSeq_peptide:NP_009318.1"
+FT                   /db_xref="Uniprot/SWISSPROT:MBI2_YEAST"
+FT                   /db_xref="GO:0006118  ()"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="GO:0004518 nuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /name="BI2"
+FT                   /id="Q0110"
+FT                   /description="Cytochrome b mRNA maturase bI2.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03873]"
+FT   gene            36540..43647
+FT                   /source="SGD"
+FT                   /name="COB"
+FT                   /id="Q0105"
+FT                   /description="Cytochrome b (Ubiquinol-cytochrome-c
+FT                   reductase complex cytochrome b subunit) (Complex III
+FT                   subunit CYTB) (Cytochrome b-c1 complex subunit CYTB).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00163]"
+FT   mRNA            join(36540..36954,37723..37736,39141..39217,40841..41090,
+FT                   42508..42558,43297..43647)
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3970_s_at"
+FT                   /db_xref="AFFY_YG_S98:3972_s_at"
+FT                   /db_xref="AFFY_YG_S98:3974_at"
+FT                   /db_xref="AFFY_YG_S98:3968_s_at"
+FT                   /db_xref="AFFY_YG_S98:3975_at"
+FT                   /name="COB"
+FT                   /id="Q0105"
+FT                   /description="Cytochrome b (Ubiquinol-cytochrome-c
+FT                   reductase complex cytochrome b subunit) (Complex III
+FT                   subunit CYTB) (Cytochrome b-c1 complex subunit CYTB).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00163]"
+FT   CDS             join(36540..36954,37723..37736,39141..39217,40841..41090,
+FT                   42508..42558,43297..43647)
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:COB"
+FT                   /db_xref="RefSeq_peptide:NP_009315.1"
+FT                   /db_xref="PDB:1EZV"
+FT                   /db_xref="PDB:1KB9"
+FT                   /db_xref="PDB:1KYO"
+FT                   /db_xref="PDB:1P84"
+FT                   /db_xref="Uniprot/SWISSPROT:CYB_YEAST"
+FT                   /db_xref="GO:0006118  ()"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0005746 mitochondrial respiratory chain
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0046872 metal ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0008121 ubiquinol-cytochrome-c reductase
+FT                   activity (molecular_function)"
+FT                   /db_xref="GO:0005750 mitochondrial respiratory chain
+FT                   complex III (cellular_component)"
+FT                   /db_xref="GO:0006122 mitochondrial electron transport,
+FT                   ubiquinol to cytochrome c (biological_process)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0045153 electron transporter, transferring
+FT                   electrons within CoQH2-cytochrome c reductase complex
+FT                   activity (molecular_function)"
+FT                   /name="COB"
+FT                   /id="Q0105"
+FT                   /description="Cytochrome b (Ubiquinol-cytochrome-c
+FT                   reductase complex cytochrome b subunit) (Complex III
+FT                   subunit CYTB) (Cytochrome b-c1 complex subunit CYTB).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00163]"
+FT   gene            36540..42251
+FT                   /source="SGD"
+FT                   /name="BI4"
+FT                   /id="Q0120"
+FT                   /description="Intron-encoded RNA maturase bI4 precursor
+FT                   (RNA maturase SCbI4) [Contains: Truncated, nonfunctional
+FT                   cytochrome b; RNA maturase bI4 (EC 3.1.-.-)].
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03879]"
+FT   mRNA            join(36540..36954,37723..37736,39141..39217,40841..42251)
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3972_s_at"
+FT                   /db_xref="AFFY_YG_S98:3973_at"
+FT                   /db_xref="AFFY_YG_S98:3970_s_at"
+FT                   /db_xref="AFFY_YG_S98:3968_s_at"
+FT                   /name="BI4"
+FT                   /id="Q0120"
+FT                   /description="Intron-encoded RNA maturase bI4 precursor
+FT                   (RNA maturase SCbI4) [Contains: Truncated, nonfunctional
+FT                   cytochrome b; RNA maturase bI4 (EC 3.1.-.-)].
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03879]"
+FT   CDS             join(36540..36954,37723..37736,39141..39217,40841..42251)
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:BI4"
+FT                   /db_xref="RefSeq_peptide:NP_009316.1"
+FT                   /db_xref="Uniprot/SWISSPROT:MBI4_YEAST"
+FT                   /db_xref="GO:0006118  ()"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0003677 DNA binding (molecular_function)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="GO:0003723 RNA binding (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0000372 Group I intron splicing
+FT                   (biological_process)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /db_xref="GO:0016539 intein-mediated protein splicing
+FT                   (biological_process)"
+FT                   /db_xref="GO:0009405 pathogenesis (biological_process)"
+FT                   /db_xref="GO:0019835 cytolysis (biological_process)"
+FT                   /db_xref="GO:0005102 receptor binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009617 response to bacterium
+FT                   (biological_process)"
+FT                   /name="BI4"
+FT                   /id="Q0120"
+FT                   /description="Intron-encoded RNA maturase bI4 precursor
+FT                   (RNA maturase SCbI4) [Contains: Truncated, nonfunctional
+FT                   cytochrome b; RNA maturase bI4 (EC 3.1.-.-)].
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03879]"
+FT   gene            36540..40265
+FT                   /source="SGD"
+FT                   /name="BI3"
+FT                   /id="Q0115"
+FT                   /description="Cytochrome b mRNA maturase bI3.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW7]"
+FT   mRNA            join(36540..36954,37723..37736,39141..40265)
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3971_at"
+FT                   /db_xref="AFFY_YG_S98:3970_s_at"
+FT                   /db_xref="AFFY_YG_S98:3968_s_at"
+FT                   /name="BI3"
+FT                   /id="Q0115"
+FT                   /description="Cytochrome b mRNA maturase bI3.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW7]"
+FT   CDS             join(36540..36954,37723..37736,39141..40265)
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:BI3"
+FT                   /db_xref="RefSeq_peptide:NP_009317.1"
+FT                   /db_xref="Uniprot/SWISSPROT:MBI3_YEAST"
+FT                   /db_xref="PDB:2AB5"
+FT                   /db_xref="GO:0006118  ()"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0003677 DNA binding (molecular_function)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="GO:0003723 RNA binding (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0000372 Group I intron splicing
+FT                   (biological_process)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /name="BI3"
+FT                   /id="Q0115"
+FT                   /description="Cytochrome b mRNA maturase bI3.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW7]"
+FT   gene            46723..46953
+FT                   /source="SGD"
+FT                   /name="OLI1"
+FT                   /id="Q0130"
+FT                   /description="ATP synthase protein 9, mitochondrial (EC
+FT                   3.6.3.14) (Lipid-binding protein) (Oligomycin resistance
+FT                   protein 1). [Source:UniProtKB/Swiss-Prot;Acc:P61829]"
+FT   mRNA            46723..46953
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3976_at"
+FT                   /name="OLI1"
+FT                   /id="Q0130"
+FT                   /description="ATP synthase protein 9, mitochondrial (EC
+FT                   3.6.3.14) (Lipid-binding protein) (Oligomycin resistance
+FT                   protein 1). [Source:UniProtKB/Swiss-Prot;Acc:P61829]"
+FT   CDS             46723..46953
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:OLI1"
+FT                   /db_xref="RefSeq_peptide:NP_009319.1"
+FT                   /db_xref="Uniprot/SPTREMBL:Q37672_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q37673_YEAST"
+FT                   /db_xref="Uniprot/SWISSPROT:ATP9_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006811 ion transport (biological_process)"
+FT                   /db_xref="GO:0015078 hydrogen ion transmembrane
+FT                   transporter activity (molecular_function)"
+FT                   /db_xref="GO:0015986 ATP synthesis coupled proton
+FT                   transport (biological_process)"
+FT                   /db_xref="GO:0015992 proton transport
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016469 proton-transporting two-sector ATPase
+FT                   complex (cellular_component)"
+FT                   /db_xref="GO:0046933 hydrogen ion transporting ATP
+FT                   synthase activity, rotational mechanism
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0046961 proton-transporting ATPase activity,
+FT                   rotational mechanism (molecular_function)"
+FT                   /db_xref="GO:0000276 mitochondrial proton-transporting ATP
+FT                   synthase complex, coupling factor F(o)
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0045263 proton-transporting ATP synthase
+FT                   complex, coupling factor F(o) (cellular_component)"
+FT                   /db_xref="GO:0008289 lipid binding (molecular_function)"
+FT                   /name="OLI1"
+FT                   /id="Q0130"
+FT                   /description="ATP synthase protein 9, mitochondrial (EC
+FT                   3.6.3.14) (Lipid-binding protein) (Oligomycin resistance
+FT                   protein 1). [Source:UniProtKB/Swiss-Prot;Acc:P61829]"
+FT   gene            48201..48290
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tS(UGA)Q2"
+FT   mRNA            48201..48290
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tS(UGA)Q2"
+FT   gene            48901..50097
+FT                   /source="SGD"
+FT                   /name="VAR1"
+FT                   /id="Q0140"
+FT                   /description="Mitochondrial ribosomal protein VAR1.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P02381]"
+FT   mRNA            48901..50097
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3979_i_at"
+FT                   /db_xref="AFFY_YG_S98:3980_r_at"
+FT                   /name="VAR1"
+FT                   /id="Q0140"
+FT                   /description="Mitochondrial ribosomal protein VAR1.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P02381]"
+FT   CDS             48901..50097
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:VAR1"
+FT                   /db_xref="RefSeq_peptide:NP_009320.1"
+FT                   /db_xref="Uniprot/SWISSPROT:RMAR_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0003735 structural constituent of ribosome
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0006412 translation (biological_process)"
+FT                   /db_xref="GO:0030529 ribonucleoprotein complex
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0005763 mitochondrial small ribosomal subunit
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0000028 ribosomal small subunit assembly
+FT                   (biological_process)"
+FT                   /db_xref="GO:0005761 mitochondrial ribosome
+FT                   (cellular_component)"
+FT                   /name="VAR1"
+FT                   /id="Q0140"
+FT                   /description="Mitochondrial ribosomal protein VAR1.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P02381]"
+FT   gene            51052..51228
+FT                   /source="SGD"
+FT                   /name="Q0142"
+FT                   /id="Q0142"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0142. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW4]"
+FT   mRNA            51052..51228
+FT                   /source="SGD"
+FT                   /name="Q0142"
+FT                   /id="Q0142"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0142. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW4]"
+FT   CDS             51052..51228
+FT                   /source="SGD"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0142_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /name="Q0142"
+FT                   /id="Q0142"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0142. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW4]"
+FT   gene            51277..51429
+FT                   /source="SGD"
+FT                   /name="Q0143"
+FT                   /id="Q0143"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0143. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW3]"
+FT   mRNA            51277..51429
+FT                   /source="SGD"
+FT                   /name="Q0143"
+FT                   /id="Q0143"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0143. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW3]"
+FT   CDS             51277..51429
+FT                   /source="SGD"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0143_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /name="Q0143"
+FT                   /id="Q0143"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0143. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW3]"
+FT   gene            54109..54438
+FT                   /source="SGD"
+FT                   /name="Q0144"
+FT                   /id="Q0144"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0144. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW2]"
+FT   mRNA            54109..54438
+FT                   /source="SGD"
+FT                   /name="Q0144"
+FT                   /id="Q0144"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0144. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW2]"
+FT   CDS             54109..54438
+FT                   /source="SGD"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0144_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /name="Q0144"
+FT                   /id="Q0144"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0144. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW2]"
+FT   gene            58009..62447
+FT                   /source=""
+FT                   /name=""
+FT                   /id="21S_rRNA"
+FT   rRNA            join(58009..60724,61868..62447)
+FT                   /source=""
+FT                   /name=""
+FT                   /id="21S_rRNA"
+FT   gene            61022..61729
+FT                   /source="SGD"
+FT                   /name="SCEI"
+FT                   /id="Q0160"
+FT                   /description="Intron-encoded endonuclease I-SceI (EC
+FT                   3.1.-.-) (21S rRNA intron maturase) (Homing endonuclease
+FT                   omega). [Source:UniProtKB/Swiss-Prot;Acc:P03882]"
+FT   mRNA            61022..61729
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3981_at"
+FT                   /name="SCEI"
+FT                   /id="Q0160"
+FT                   /description="Intron-encoded endonuclease I-SceI (EC
+FT                   3.1.-.-) (21S rRNA intron maturase) (Homing endonuclease
+FT                   omega). [Source:UniProtKB/Swiss-Prot;Acc:P03882]"
+FT   CDS             61022..61729
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:SCEI"
+FT                   /db_xref="RefSeq_peptide:NP_009324.1"
+FT                   /db_xref="Uniprot/SPTREMBL:Q35799_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q36760_YEAST"
+FT                   /db_xref="Uniprot/SWISSPROT:SCE1_YEAST"
+FT                   /db_xref="PDB:1R7M"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="GO:0016787 hydrolase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004518 nuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /name="SCEI"
+FT                   /id="Q0160"
+FT                   /description="Intron-encoded endonuclease I-SceI (EC
+FT                   3.1.-.-) (21S rRNA intron maturase) (Homing endonuclease
+FT                   omega). [Source:UniProtKB/Swiss-Prot;Acc:P03882]"
+FT   gene            63862..63937
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tT(UGU)Q1"
+FT   mRNA            63862..63937
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tT(UGU)Q1"
+FT   gene            64415..64490
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tC(GCA)Q"
+FT   mRNA            64415..64490
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tC(GCA)Q"
+FT   gene            64596..64670
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tH(GUG)Q"
+FT   mRNA            64596..64670
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tH(GUG)Q"
+FT   gene            65770..66174
+FT                   /source="SGD"
+FT                   /name="Q0182"
+FT                   /id="Q0182"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0182. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW1]"
+FT   mRNA            65770..66174
+FT                   /source="SGD"
+FT                   /name="Q0182"
+FT                   /id="Q0182"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0182. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW1]"
+FT   CDS             65770..66174
+FT                   /source="SGD"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0182_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /name="Q0182"
+FT                   /id="Q0182"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0182. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZW1]"
+FT   gene            66095..66179
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tL(UAA)Q"
+FT   mRNA            66095..66179
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tL(UAA)Q"
+FT   gene            66210..66285
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tQ(UUG)Q"
+FT   mRNA            66210..66285
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tQ(UUG)Q"
+FT   gene            67061..67134
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tK(UUU)Q"
+FT   mRNA            67061..67134
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tK(UUU)Q"
+FT   gene            67309..67381
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tR(UCU)Q1"
+FT   mRNA            67309..67381
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tR(UCU)Q1"
+FT   gene            67468..67542
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tG(UCC)Q"
+FT   mRNA            67468..67542
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tG(UCC)Q"
+FT   gene            68322..68396
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tD(GUC)Q"
+FT   mRNA            68322..68396
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tD(GUC)Q"
+FT   gene            69203..69288
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tS(GCU)Q1"
+FT   mRNA            69203..69288
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tS(GCU)Q1"
+FT   gene            69289..69362
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tR(ACG)Q2"
+FT   mRNA            69289..69362
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tR(ACG)Q2"
+FT   gene            69846..69921
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tA(UGC)Q"
+FT   mRNA            69846..69921
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tA(UGC)Q"
+FT   gene            70162..70237
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tI(GAU)Q"
+FT   mRNA            70162..70237
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tI(GAU)Q"
+FT   gene            70824..70907
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tY(GUA)Q"
+FT   mRNA            70824..70907
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tY(GUA)Q"
+FT   gene            71433..71503
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tN(GUU)Q"
+FT   mRNA            71433..71503
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tN(GUU)Q"
+FT   gene            72630..72705
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tM(CAU)Q1"
+FT   mRNA            72630..72705
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tM(CAU)Q1"
+FT   gene            73758..74513
+FT                   /source="SGD"
+FT                   /name="COX2"
+FT                   /id="Q0250"
+FT                   /description="Cytochrome c oxidase subunit 2 precursor (EC
+FT                   1.9.3.1) (Cytochrome c oxidase polypeptide II).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00410]"
+FT   mRNA            73758..74513
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3983_at"
+FT                   /name="COX2"
+FT                   /id="Q0250"
+FT                   /description="Cytochrome c oxidase subunit 2 precursor (EC
+FT                   1.9.3.1) (Cytochrome c oxidase polypeptide II).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00410]"
+FT   CDS             73758..74513
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:COX2"
+FT                   /db_xref="RefSeq_peptide:NP_009326.1"
+FT                   /db_xref="Uniprot/SPTREMBL:A4FS05_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q6XAP3_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q7Y7E8_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q7Y7M0_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q7YFU8_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q85QL0_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q94RA0_YEAST"
+FT                   /db_xref="Uniprot/SWISSPROT:COX2_YEAST"
+FT                   /db_xref="GO:0006118  ()"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="GO:0004129 cytochrome-c oxidase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005507 copper ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0005746 mitochondrial respiratory chain
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0046872 metal ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005515 protein binding (molecular_function)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0005751 mitochondrial respiratory chain
+FT                   complex IV (cellular_component)"
+FT                   /db_xref="GO:0006123 mitochondrial electron transport,
+FT                   cytochrome c to oxygen (biological_process)"
+FT                   /name="COX2"
+FT                   /id="Q0250"
+FT                   /description="Cytochrome c oxidase subunit 2 precursor (EC
+FT                   1.9.3.1) (Cytochrome c oxidase polypeptide II).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00410]"
+FT   gene            74495..75984
+FT                   /source="SGD"
+FT                   /name="Q0255"
+FT                   /id="Q0255"
+FT                   /description="Uncharacterized mitochondrial protein RF1.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03881]"
+FT   mRNA            join(74495..75622,75663..75872,75904..75984)
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3986_f_at"
+FT                   /db_xref="AFFY_YG_S98:3987_at"
+FT                   /db_xref="AFFY_YG_S98:3984_r_at"
+FT                   /db_xref="AFFY_YG_S98:3985_i_at"
+FT                   /name="Q0255"
+FT                   /id="Q0255"
+FT                   /description="Uncharacterized mitochondrial protein RF1.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03881]"
+FT   CDS             join(74495..75622,75663..75872,75904..75984)
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:Q0255"
+FT                   /db_xref="RefSeq_peptide:NP_009327.1"
+FT                   /db_xref="Uniprot/SWISSPROT:YMRF1_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0003677 DNA binding (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /name="Q0255"
+FT                   /id="Q0255"
+FT                   /description="Uncharacterized mitochondrial protein RF1.
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P03881]"
+FT   gene            77431..77505
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tF(GAA)Q"
+FT   mRNA            77431..77505
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tF(GAA)Q"
+FT   gene            complement(78089..78162)
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tT(XXX)Q2"
+FT   mRNA            complement(78089..78162)
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tT(XXX)Q2"
+FT   gene            78533..78608
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tV(UAC)Q"
+FT   mRNA            78533..78608
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tV(UAC)Q"
+FT   gene            79213..80022
+FT                   /source="SGD"
+FT                   /name="COX3"
+FT                   /id="Q0275"
+FT                   /description="Cytochrome c oxidase subunit 3 (EC 1.9.3.1)
+FT                   (Cytochrome c oxidase polypeptide III).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00420]"
+FT   mRNA            79213..80022
+FT                   /source="SGD"
+FT                   /db_xref="AFFY_YG_S98:3988_at"
+FT                   /name="COX3"
+FT                   /id="Q0275"
+FT                   /description="Cytochrome c oxidase subunit 3 (EC 1.9.3.1)
+FT                   (Cytochrome c oxidase polypeptide III).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00420]"
+FT   CDS             79213..80022
+FT                   /source="SGD"
+FT                   /db_xref="EntrezGene:COX3"
+FT                   /db_xref="RefSeq_peptide:NP_009328.1"
+FT                   /db_xref="Uniprot/SWISSPROT:COX3_YEAST"
+FT                   /db_xref="GO:0006118  ()"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004129 cytochrome-c oxidase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0005751 mitochondrial respiratory chain
+FT                   complex IV (cellular_component)"
+FT                   /db_xref="GO:0006123 mitochondrial electron transport,
+FT                   cytochrome c to oxygen (biological_process)"
+FT                   /name="COX3"
+FT                   /id="Q0275"
+FT                   /description="Cytochrome c oxidase subunit 3 (EC 1.9.3.1)
+FT                   (Cytochrome c oxidase polypeptide III).
+FT                   [Source:UniProtKB/Swiss-Prot;Acc:P00420]"
+FT   gene            85035..85112
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tM(CAU)Q2"
+FT   mRNA            85035..85112
+FT                   /source=""
+FT                   /name=""
+FT                   /id="tM(CAU)Q2"
+FT   gene            85295..85777
+FT                   /source=""
+FT                   /name=""
+FT                   /id="RPM1"
+FT   mRNA            85295..85777
+FT                   /source=""
+FT                   /name=""
+FT                   /id="RPM1"
+FT   gene            85554..85709
+FT                   /source="SGD"
+FT                   /name="Q0297"
+FT                   /id="Q0297"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0297. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZV8]"
+FT   mRNA            85554..85709
+FT                   /source="SGD"
+FT                   /name="Q0297"
+FT                   /id="Q0297"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0297. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZV8]"
+FT   CDS             85554..85709
+FT                   /source="SGD"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0297_YEAST"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /name="Q0297"
+FT                   /id="Q0297"
+FT                   /description="Putative uncharacterized mitochondrial
+FT                   protein Q0297. [Source:UniProtKB/Swiss-Prot;Acc:Q9ZZV8]"
+XX
+SQ   Sequence 85779 BP; 0 A; 0 C; 0 G; 0 T; 85779 other;
